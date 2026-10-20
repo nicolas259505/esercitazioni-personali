@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.btn{
+    background-color: white;
+    border: 2px solid red;
+}
+
+p{
+    color: white;
+    font-size: 50px;
+}
+
+.btn:hover{
+    background-color: red;
+    border: 2px solid white;
+}
+
+.paragrafo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.bottone{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}

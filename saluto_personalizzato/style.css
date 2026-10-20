@@ -1,0 +1,21 @@
+.casella{
+    background-color: black;
+    color: red;
+    font-size: 45px;
+}
+
+.butt{
+    font-size: 45px;
+    border: 3px outset red;
+    color: red;
+    background-color: black;
+}
+
+.para{
+    font-size: 45px;
+    color: limegreen;
+}
+
+.butt:active{
+    transform: scale(0.95);
+}
